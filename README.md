@@ -17,4 +17,4 @@ An advanced, interactive AI-powered web application built to predict student aca
 - **Data Engineering:** Pandas, NumPy
 - **Data Visualization:** Plotly Express & Graph Objects
 
-Developed by **Easy Business Technology** | Created by Update Abdullahi
+Produced and Sponsored by **Easy Business Technology** | Developed by Update Abdullahi
